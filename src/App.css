@@ -1,0 +1,19 @@
+.center {
+    width: 100%;
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+    background-color: #cfd2d6;
+  }
+  
+  .center h4 {
+    text-decoration: underline;
+    color:#7b2ff7;
+  }
+  .container{
+    background:linear-gradient(250deg, #7b2ff7, #f107a3);
+  }
+  .modalImg{
+    max-height:70vh;
+    max-width: 70vw;
+  }
