@@ -16,3 +16,12 @@
     > git commit -m "first commit"
 - ellenőrzés:
     > git status
+
+## Távoli repo létrehozása, összekapcsolás
+- GitHub új repo létrehozás
+- összekapcsolás:
+    > git remote add origin https://github.com/mkatay/teszt.git
+- első push:
+    > git push -u origin master
+- további push:
+    > git push
